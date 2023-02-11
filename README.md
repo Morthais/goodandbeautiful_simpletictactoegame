@@ -1,16 +1,14 @@
 # goodandbeautiful_simpletictactoegame
 
-A new Flutter project.
+Created by: Jacob Farr
 
-## Getting Started
+## TIC-TAC-TOE
 
-This project is a starting point for a Flutter application.
+This project is a simple tic-tac-toe game.
 
-A few resources to get you started if this is your first Flutter project:
+## Resources
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Dart Documentation](https://dart.dev/guides)
+[Flutter Documentation](https://docs.flutter.dev/)
+[DartPad](https://dartpad.dev/)
+[YouTube Aid](https://www.youtube.com/watch?v=BZaXEIn9jE4&list=PLlvRDpXh1Se6e3FSn5O7VU6tzlndSi3FD)
